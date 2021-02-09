@@ -39,7 +39,7 @@ El proyecto consiste en crear un _banner_ para este taller y el requerimiento es
 - Ir a la línea [90](https://github.com/MeryCardenas23/Workshop-Git-and-Github/blob/master/index.html#L90) y reemplazar el texto de `H5` por tu nombre
 - Ejecutar `git stash`
 - Ejecutar `git stash pop`
-- Ejecutar `git add -p`
+- git
 - Seleccionar los cambios realizados el la línea [86](https://github.com/MeryCardenas23/Workshop-Git-and-Github/blob/master/index.html#L86)
 - Ejecutar `git commit -m 'add photo of participant 3'`
 - Seleccionar los cambios realizados el la línea [90](https://github.com/MeryCardenas23/Workshop-Git-and-Github/blob/master/index.html#L90)
